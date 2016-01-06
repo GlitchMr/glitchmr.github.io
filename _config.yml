@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://glitchmr.github.io
+title: Mr. Glitch
+paginate: 10
